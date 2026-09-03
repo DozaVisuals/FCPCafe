@@ -15,7 +15,7 @@ Search every word, or ask in plain language ("the three best lines about the lau
 
 The app is code-signed and notarized. The core is open source (MIT) on GitHub. The Pro app is a one-time purchase (USD$199, first year of updates included, no subscription) with a free trial that runs every feature on the first 2 minutes of each file. Available direct or on [FxFactory](https://fxfactory.com/info/dozaassist/). Requires macOS on Apple Silicon (M1 or later).
 
-Made by Chris Cardoza, a documentary editor with 15 years cutting docs and branded content.
+Made by Chris Cardoza, a documentary editor with 15 years cutting docs and branded content. Learn more at [doza.ai](https://doza.ai/?ref=fcpcafe).
 
 [!button text="Visit Website" target="blank" variant="info"](https://doza.ai/for/final-cut-pro/?ref=fcpcafe)
 
