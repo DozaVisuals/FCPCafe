@@ -1,6 +1,6 @@
 ### Doza Assist
 
-Local-first AI transcription and story editing for interview footage. Runs on your Mac. Nothing uploads by default.
+Local-first AI transcription and story editing for interview footage. Learns how you tell a story from your own finished work. Runs on your Mac. Nothing uploads by default.
 
 ![Doza Assist app window showing a transcribed interview with speakers labelled and selects marked](/static/doza-assist.jpg)
 
@@ -10,7 +10,7 @@ Search every word, or ask in plain language ("the three best lines about the lau
 
 - **Local-first:** transcription, Speaker ID, analysis and chat all run on Apple Silicon by default. Works with Wi-Fi off. No per-minute fees, no upload queue, no credits. If you want a bigger model for specific tasks, you can optionally plug in your own Claude or OpenAI API key. It's off unless you turn it on.
 - **Story tools:** ranked soundbites, Story Brief (narrative beats across multiple interviews), Quote Sheet (PDF or Word), Collections across a series or season, and batch processing.
-- **Editorial voice:** My Style learns how you cut from past projects, with per-client profiles.
+- **Your editorial voice, not a template:** My Style trains on your own finished work (past cuts, scripts, transcripts) so the moments it ranks and the sequences it builds follow your structure, your pacing, how you open and what you let breathe. Per-client profiles keep each brand's voice distinct.
 - **Round-trip:** FCPXML back to Final Cut Pro. Also exports for Premiere Pro and DaVinci Resolve.
 
 The app is code-signed and notarized, built on an open-source core. The Pro app is a one-time purchase (USD$199, first year of updates included, no subscription) with a free trial that runs every feature on the first 2 minutes of each file. Available direct or on [FxFactory](https://fxfactory.com/info/dozaassist/). Requires macOS on Apple Silicon (M1 or later).
