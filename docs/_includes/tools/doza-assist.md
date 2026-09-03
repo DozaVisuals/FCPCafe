@@ -1,8 +1,8 @@
 ### Doza Assist
 
-Local-first AI transcription and story editing for interview footage. Runs on your Mac. Nothing uploads.
+Local-first AI transcription and story editing for interview footage. Runs on your Mac. Nothing uploads by default.
 
-![](/static/doza-assist.jpg)
+![Doza Assist app window showing a transcribed interview with speakers labelled and selects marked](/static/doza-assist.jpg)
 
 Doza Assist is built for editors who cut long-form interviews: documentaries, podcasts, corporate, journalism, events. Export an FCPXML from Final Cut of either a project or a whole event (so you can transcribe every raw clip before anything is on a timeline), drop it in, and it transcribes everything on-device in 100+ auto-detected languages with speakers labelled. FCPXML versions 1.8 through 1.14 and `.fcpxmld` bundles are read directly. Multicam and synchronized clips are parsed with their structure intact, and the transcript runs in timeline time, so every word lines up with the timecode you cut at.
 
